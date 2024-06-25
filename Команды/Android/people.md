@@ -5,3 +5,4 @@
 | Роман Николаев  | Android разработчик      |  |
 | Анна Павлова  | Android разработчик       |  |
 | Пётр Дмитриев  | Тестировщик           |  |
+![image](https://github.com/innovational-mobile-apps/innovational-mobile-apps.github.io/assets/4077607/bd7be854-13f1-490f-8f66-01f9a4ec9138)
