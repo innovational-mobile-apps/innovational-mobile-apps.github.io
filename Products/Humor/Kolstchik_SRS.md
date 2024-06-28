@@ -1,3 +1,7 @@
+На основе твита:
+![telegram-cloud-photo-size-2-5469773514862090618-y](https://github.com/innovational-mobile-apps/innovational-mobile-apps.github.io/assets/4077607/40915387-6a8a-4973-bf3e-dc304f441917)
+
+
 # 1 Основная информация
 | Свойство| Значение |
 | ---| ---|
